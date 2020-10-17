@@ -1,0 +1,475 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{3E5995A6-926A-4055-8029-DC9837590756}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Akademik_Aplication.My.MyApplication</StartupObject>
+    <RootNamespace>Akademik_Aplication</RootNamespace>
+    <AssemblyName>SFA</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN %28JNS%29\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>SFA.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>SFA.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>23CE0939DC46B0B35DA203B1E3B1AED34B6D4968</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Smart Finance Aplication_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="LibraryProc, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\LibraryProc.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="Service Application, Version=1.0.0.0, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Service Application.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Menu Entry\FrmReguKerjavb.Designer.vb">
+      <DependentUpon>FrmReguKerjavb.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Menu Entry\FrmReguKerjavb.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu Pendukung\FrmNilaiTugasAkhir.Designer.vb">
+      <DependentUpon>FrmNilaiTugasAkhir.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Menu Pendukung\FrmNilaiTugasAkhir.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu Pendukung\form3.Designer.vb">
+      <DependentUpon>form3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Menu Pendukung\form3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu Pendukung\form2.Designer.vb">
+      <DependentUpon>form2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Menu Pendukung\form2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu Pendukung\FrmTugasAkhir.Designer.vb">
+      <DependentUpon>FrmTugasAkhir.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Menu Pendukung\FrmTugasAkhir.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu Pendukung\FrmMahasiswa.Designer.vb">
+      <DependentUpon>FrmMahasiswa.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Menu Pendukung\FrmMahasiswa.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu Pendukung\FrmDosen.Designer.vb">
+      <DependentUpon>FrmDosen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Menu Pendukung\FrmDosen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu Pendukung\FrmProdi.Designer.vb">
+      <DependentUpon>FrmProdi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Menu Pendukung\FrmProdi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu Pendukung\FrmContactUs.Designer.vb">
+      <DependentUpon>FrmContactUs.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Menu Pendukung\FrmContactUs.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu Pendukung\FrmMenuUtama.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu Pendukung\FrmMenuUtama.Designer.vb">
+      <DependentUpon>FrmMenuUtama.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu Pendukung\FrmOperator.Designer.vb">
+      <DependentUpon>FrmOperator.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Menu Pendukung\FrmOperator.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu Pendukung\FrmPerusahaan.Designer.vb">
+      <DependentUpon>FrmPerusahaan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Menu Pendukung\FrmPerusahaan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu Pendukung\FrmLogin.Designer.vb">
+      <DependentUpon>FrmLogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Menu Pendukung\FrmLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu Tampilakn Data\DataSet1.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Menu Tampilakn Data\PrintTugasAkhir.Designer.vb">
+      <DependentUpon>PrintTugasAkhir.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Menu Tampilakn Data\PrintTugasAkhir.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu Tampilakn Data\PrintMahasiswa.Designer.vb">
+      <DependentUpon>PrintMahasiswa.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Menu Tampilakn Data\PrintMahasiswa.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu Tampilakn Data\FrmLap.Designer.vb">
+      <DependentUpon>FrmLap.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Menu Tampilakn Data\FrmLap.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu Tampilakn Data\FrmData.Designer.vb">
+      <DependentUpon>FrmData.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Menu Tampilakn Data\FrmData.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu Tampilakn Data\PrintDosen.Designer.vb">
+      <DependentUpon>PrintDosen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Menu Tampilakn Data\PrintDosen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modul\MdlPendukung.vb" />
+    <Compile Include="Modul\MdlLapMahasiswa.vb" />
+    <Compile Include="Modul\MdlLapTA.vb" />
+    <Compile Include="Modul\MdlLapDosen.vb" />
+    <Compile Include="Modul\MdlNIlaiTugasAkhir.vb" />
+    <Compile Include="Modul\MdlTugasAkhir.vb" />
+    <Compile Include="Modul\MdlMahasiswa.vb" />
+    <Compile Include="Modul\MdlDosen.vb" />
+    <Compile Include="Modul\MdlProdi.vb" />
+    <Compile Include="Modul\MdlOperator.vb" />
+    <Compile Include="Modul\MdlAutoComplete.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="tugasakhirDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>tugasakhirDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="tugasakhirDataSet1.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>tugasakhirDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="tugasakhirDataSet2.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>tugasakhirDataSet2.xsd</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Menu Entry\FrmReguKerjavb.resx">
+      <DependentUpon>FrmReguKerjavb.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu Pendukung\FrmNilaiTugasAkhir.resx">
+      <DependentUpon>FrmNilaiTugasAkhir.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu Pendukung\form3.resx">
+      <DependentUpon>form3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu Pendukung\form2.resx">
+      <DependentUpon>form2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu Pendukung\FrmTugasAkhir.resx">
+      <DependentUpon>FrmTugasAkhir.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu Pendukung\FrmMahasiswa.resx">
+      <DependentUpon>FrmMahasiswa.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu Pendukung\FrmDosen.resx">
+      <DependentUpon>FrmDosen.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu Pendukung\FrmProdi.resx">
+      <DependentUpon>FrmProdi.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu Pendukung\FrmContactUs.resx">
+      <DependentUpon>FrmContactUs.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu Pendukung\FrmMenuUtama.resx">
+      <DependentUpon>FrmMenuUtama.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu Pendukung\FrmOperator.resx">
+      <DependentUpon>FrmOperator.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu Pendukung\FrmPerusahaan.resx">
+      <DependentUpon>FrmPerusahaan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu Pendukung\FrmLogin.resx">
+      <DependentUpon>FrmLogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu Tampilakn Data\PrintTugasAkhir.resx">
+      <DependentUpon>PrintTugasAkhir.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu Tampilakn Data\PrintMahasiswa.resx">
+      <DependentUpon>PrintMahasiswa.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu Tampilakn Data\FrmLap.resx">
+      <DependentUpon>FrmLap.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu Tampilakn Data\FrmData.resx">
+      <DependentUpon>FrmData.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu Tampilakn Data\PrintDosen.resx">
+      <DependentUpon>PrintDosen.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu Tampilakn Data\Report1.rdlc" />
+    <EmbeddedResource Include="Menu Tampilakn Data\Report2.rdlc" />
+    <EmbeddedResource Include="Menu Tampilakn Data\Report3.rdlc" />
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>PublicVbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="Menu Tampilakn Data\DataSet1.xsc">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Menu Tampilakn Data\DataSet1.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet1.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Menu Tampilakn Data\DataSet1.xss">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Smart Finance Aplication_TemporaryKey.pfx" />
+    <None Include="tugasakhirDataSet.xsc">
+      <DependentUpon>tugasakhirDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="tugasakhirDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>tugasakhirDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="tugasakhirDataSet.xss">
+      <DependentUpon>tugasakhirDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="tugasakhirDataSet1.xsc">
+      <DependentUpon>tugasakhirDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="tugasakhirDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>tugasakhirDataSet1.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="tugasakhirDataSet1.xss">
+      <DependentUpon>tugasakhirDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="tugasakhirDataSet2.xsc">
+      <DependentUpon>tugasakhirDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="tugasakhirDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>tugasakhirDataSet2.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="tugasakhirDataSet2.xss">
+      <DependentUpon>tugasakhirDataSet2.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Image1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\block32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logo-Polmed.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\m.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Webp.net-resizeimage.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rsz_m.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rsz_1m.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\plus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pen.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\refresh.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shutdown.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\test.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\test2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\list.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tick.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Menu Tampilakn Data\Database1.sdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.SQL.Server.Compact.4.0">
+      <Visible>False</Visible>
+      <ProductName>SQL Server Compact 4.0 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

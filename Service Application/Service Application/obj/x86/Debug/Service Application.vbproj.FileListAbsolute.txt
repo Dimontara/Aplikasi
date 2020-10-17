@@ -1,0 +1,61 @@
+D:\EVO Dentist Application\Service Application\Service Application\obj\x86\Debug\Service_Application.FrmConfigurasiServer.resources
+D:\EVO Dentist Application\Service Application\Service Application\obj\x86\Debug\Service_Application.Resources.resources
+D:\EVO Dentist Application\Service Application\Service Application\obj\x86\Debug\Service Application.vbproj.GenerateResource.Cache
+D:\EVO Dentist Application\Service Application\Service Application\bin\Debug\Service Application.dll
+D:\EVO Dentist Application\Service Application\Service Application\bin\Debug\Service Application.pdb
+D:\EVO Dentist Application\Service Application\Service Application\bin\Debug\Service Application.xml
+D:\EVO Dentist Application\Service Application\Service Application\obj\x86\Debug\Service Application.xml
+D:\EVO Dentist Application\Service Application\Service Application\obj\x86\Debug\Service Application.pdb
+D:\EVO Dentist Application\EVO Dentist Application\EVO Dentist Application\bin\Debug\Service Application.pdb
+D:\EVO Dentist Application\EVO Dentist Application\EVO Dentist Application\bin\Debug\Service Application.xml
+D:\EVO Dentist Application\EVO Dentist Application\EVO Dentist Application\bin\Debug\Service Application.dll
+D:\EVO Dentist Application\Service Application\Service Application\obj\x86\Debug\Service Application.dll
+D:\Framework Hamdani Piliang\Service Application\Service Application\bin\Debug\Service Application.dll
+D:\Framework Hamdani Piliang\Service Application\Service Application\bin\Debug\Service Application.pdb
+D:\Framework Hamdani Piliang\Service Application\Service Application\bin\Debug\Service Application.xml
+D:\Framework Hamdani Piliang\Service Application\Service Application\obj\x86\Debug\Service Application.vbprojResolveAssemblyReference.cache
+D:\Framework Hamdani Piliang\Service Application\Service Application\obj\x86\Debug\Service_Application.FrmConfigurasiServer.resources
+D:\Framework Hamdani Piliang\Service Application\Service Application\obj\x86\Debug\Service_Application.Resources.resources
+D:\Framework Hamdani Piliang\Service Application\Service Application\obj\x86\Debug\Service Application.vbproj.GenerateResource.Cache
+D:\Framework Hamdani Piliang\Service Application\Service Application\obj\x86\Debug\Service Application.dll
+D:\Framework Hamdani Piliang\Service Application\Service Application\obj\x86\Debug\Service Application.xml
+D:\Framework Hamdani Piliang\Service Application\Service Application\obj\x86\Debug\Service Application.pdb
+D:\Others\Framework Hamdani Piliang\Service Application\Service Application\obj\x86\Debug\Service_Application.FrmConfigurasiServer.resources
+D:\Others\Framework Hamdani Piliang\Service Application\Service Application\obj\x86\Debug\Service_Application.Resources.resources
+D:\Others\Framework Hamdani Piliang\Service Application\Service Application\obj\x86\Debug\Service Application.vbproj.GenerateResource.Cache
+D:\Others\Framework Hamdani Piliang\Service Application\Service Application\obj\x86\Debug\Service Application.dll
+D:\Others\Framework Hamdani Piliang\Service Application\Service Application\obj\x86\Debug\Service Application.xml
+D:\Others\Framework Hamdani Piliang\Service Application\Service Application\obj\x86\Debug\Service Application.pdb
+D:\Others\Framework Hamdani Piliang\Service Application\Service Application\bin\Debug\Service Application.dll
+D:\Others\Framework Hamdani Piliang\Service Application\Service Application\bin\Debug\Service Application.pdb
+D:\Others\Framework Hamdani Piliang\Service Application\Service Application\bin\Debug\Service Application.xml
+D:\Project SOFTMED CONSULTINDO\Smart Finance Aplication\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\bin\Debug\Service Application.dll
+D:\Project SOFTMED CONSULTINDO\Smart Finance Aplication\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\bin\Debug\Service Application.pdb
+D:\Project SOFTMED CONSULTINDO\Smart Finance Aplication\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\bin\Debug\Service Application.xml
+D:\Project SOFTMED CONSULTINDO\Smart Finance Aplication\Service Application\Service Application\obj\x86\Debug\Service_Application.FrmConfigurasiServer.resources
+D:\Project SOFTMED CONSULTINDO\Smart Finance Aplication\Service Application\Service Application\obj\x86\Debug\Service_Application.Resources.resources
+D:\Project SOFTMED CONSULTINDO\Smart Finance Aplication\Service Application\Service Application\obj\x86\Debug\Service Application.vbproj.GenerateResource.Cache
+D:\Project SOFTMED CONSULTINDO\Smart Finance Aplication\Service Application\Service Application\obj\x86\Debug\Service Application.dll
+D:\Project SOFTMED CONSULTINDO\Smart Finance Aplication\Service Application\Service Application\obj\x86\Debug\Service Application.xml
+D:\Project SOFTMED CONSULTINDO\Smart Finance Aplication\Service Application\Service Application\obj\x86\Debug\Service Application.pdb
+D:\Project SOFTMED CONSULTINDO\Smart Finance Aplication\Service Application\Service Application\obj\x86\Debug\Service Application.vbprojResolveAssemblyReference.cache
+D:\Project\Project SOFTMED CONSULTINDO\Smart Finance Aplication\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\bin\Debug\Service Application.dll
+D:\Project\Project SOFTMED CONSULTINDO\Smart Finance Aplication\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\bin\Debug\Service Application.pdb
+D:\Project\Project SOFTMED CONSULTINDO\Smart Finance Aplication\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\bin\Debug\Service Application.xml
+D:\Project\Project SOFTMED CONSULTINDO\Smart Finance Aplication\Service Application\Service Application\obj\x86\Debug\Service_Application.FrmConfigurasiServer.resources
+D:\Project\Project SOFTMED CONSULTINDO\Smart Finance Aplication\Service Application\Service Application\obj\x86\Debug\Service_Application.Resources.resources
+D:\Project\Project SOFTMED CONSULTINDO\Smart Finance Aplication\Service Application\Service Application\obj\x86\Debug\Service Application.dll
+D:\Project\Project SOFTMED CONSULTINDO\Smart Finance Aplication\Service Application\Service Application\obj\x86\Debug\Service Application.xml
+D:\Project\Project SOFTMED CONSULTINDO\Smart Finance Aplication\Service Application\Service Application\obj\x86\Debug\Service Application.pdb
+D:\Project\Project SOFTMED CONSULTINDO\Smart Finance Aplication\Service Application\Service Application\obj\x86\Debug\Service Application.vbprojResolveAssemblyReference.cache
+D:\Project\Project SOFTMED CONSULTINDO\Smart Finance Aplication\Service Application\Service Application\obj\x86\Debug\Service Application.vbproj.GenerateResource.Cache
+D:\Smart Finance Aplication2\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\bin\Debug\Service Application.dll
+D:\Smart Finance Aplication2\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\bin\Debug\Service Application.pdb
+D:\Smart Finance Aplication2\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\bin\Debug\Service Application.xml
+D:\Smart Finance Aplication2\Service Application\Service Application\obj\x86\Debug\Service Application.vbprojResolveAssemblyReference.cache
+D:\Smart Finance Aplication2\Service Application\Service Application\obj\x86\Debug\Service_Application.FrmConfigurasiServer.resources
+D:\Smart Finance Aplication2\Service Application\Service Application\obj\x86\Debug\Service_Application.Resources.resources
+D:\Smart Finance Aplication2\Service Application\Service Application\obj\x86\Debug\Service Application.vbproj.GenerateResource.Cache
+D:\Smart Finance Aplication2\Service Application\Service Application\obj\x86\Debug\Service Application.dll
+D:\Smart Finance Aplication2\Service Application\Service Application\obj\x86\Debug\Service Application.xml
+D:\Smart Finance Aplication2\Service Application\Service Application\obj\x86\Debug\Service Application.pdb

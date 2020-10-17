@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <configSections>
+  </configSections>
+  <connectionStrings>
+    <add name="Smart_Finance_Aplication.My.MySettings.tugasakhirConnectionString"
+      connectionString="Data Source=DESKTOP-VIT2G7R;Initial Catalog=tugasakhir;Integrated Security=True"
+      providerName="System.Data.SqlClient" />
+  </connectionStrings>
+  <startup>
+    <supportedRuntime version="v2.0.50727" />
+  </startup>
+</configuration>

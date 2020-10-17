@@ -1,0 +1,43 @@
+﻿
+2015-08-20 8:38:08 PM
+Cannot open database "BANKDATA SFA" requested by the login. The login failed.
+Login failed for user 'sa'.
+2015-08-20 8:42:38 PM
+Cannot open database "BANKDATA SFA" requested by the login. The login failed.
+Login failed for user 'sa'.
+2015-08-20 8:44:05 PM
+Cannot open database "BANKDATA SFA 01" requested by the login. The login failed.
+Login failed for user 'sa'.
+2015-08-20 8:46:07 PM
+Cannot open database "BANKDATA SFA 01" requested by the login. The login failed.
+Login failed for user 'sa'.
+2015-08-21 4:35:33 AM
+Cannot open database "BANKDATA SFA 01" requested by the login. The login failed.
+Login failed for user 'sa'.
+2015-08-21 6:59:07 AM
+Incorrect syntax near '001'.
+2015-08-21 6:59:51 AM
+Incorrect syntax near '001'.
+2015-08-21 7:01:05 AM
+Incorrect syntax near '001'.
+2015-08-21 7:02:12 AM
+Insert Error: Column name or number of supplied values does not match table definition.
+2015-08-21 7:03:13 AM
+Insert Error: Column name or number of supplied values does not match table definition.
+2019-12-11 10.54.30
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2019-12-11 11.04.47
+Cannot open database "TUGASAKHIR" requested by the login. The login failed.
+Login failed for user 'sa'.
+2019-12-11 11.04.53
+Cannot open database "TUGASAKHIR" requested by the login. The login failed.
+Login failed for user 'sa'.
+2019-12-11 11.04.57
+Cannot open database "TUGASAKHIR" requested by the login. The login failed.
+Login failed for user 'sa'.
+2019-12-16 07.42.57
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2020-01-12 09.59.46
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2020-01-15 10.03.09
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)

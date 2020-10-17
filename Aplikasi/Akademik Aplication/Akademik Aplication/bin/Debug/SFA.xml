@@ -1,0 +1,256 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SFA
+</name>
+</assembly>
+<members>
+<member name="T:Akademik_Aplication.tugasakhirDataSet2.vw_nilaitugasAkhirDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Akademik_Aplication.tugasakhirDataSet2.vw_nilaitugasAkhirRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Akademik_Aplication.tugasakhirDataSet2.vw_nilaitugasAkhirRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Akademik_Aplication.tugasakhirDataSet2">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Akademik_Aplication.tugasakhirDataSet2TableAdapters.vw_nilaitugasAkhirTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Akademik_Aplication.tugasakhirDataSet2TableAdapters.TableAdapterManager.UpdateUpdatedRows(Akademik_Aplication.tugasakhirDataSet2,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Akademik_Aplication.tugasakhirDataSet2TableAdapters.TableAdapterManager.UpdateInsertedRows(Akademik_Aplication.tugasakhirDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Akademik_Aplication.tugasakhirDataSet2TableAdapters.TableAdapterManager.UpdateDeletedRows(Akademik_Aplication.tugasakhirDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Akademik_Aplication.tugasakhirDataSet2TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Akademik_Aplication.tugasakhirDataSet2TableAdapters.TableAdapterManager.UpdateAll(Akademik_Aplication.tugasakhirDataSet2)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Akademik_Aplication.tugasakhirDataSet2TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Akademik_Aplication.tugasakhirDataSet2TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Akademik_Aplication.tugasakhirDataSet2TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:Akademik_Aplication.tugasakhirDataSet.tblMahasiswaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Akademik_Aplication.tugasakhirDataSet.tblMahasiswaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Akademik_Aplication.tugasakhirDataSet.tblMahasiswaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Akademik_Aplication.tugasakhirDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Akademik_Aplication.tugasakhirDataSetTableAdapters.tblMahasiswaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Akademik_Aplication.tugasakhirDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Akademik_Aplication.tugasakhirDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Akademik_Aplication.tugasakhirDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Akademik_Aplication.tugasakhirDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Akademik_Aplication.tugasakhirDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Akademik_Aplication.tugasakhirDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Akademik_Aplication.tugasakhirDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Akademik_Aplication.tugasakhirDataSetTableAdapters.TableAdapterManager.UpdateAll(Akademik_Aplication.tugasakhirDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Akademik_Aplication.tugasakhirDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Akademik_Aplication.tugasakhirDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Akademik_Aplication.tugasakhirDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:Akademik_Aplication.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Akademik_Aplication.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Akademik_Aplication.My.Resources.Resources.bin">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Akademik_Aplication.My.Resources.Resources.block32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Akademik_Aplication.My.Resources.Resources.Image1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Akademik_Aplication.My.Resources.Resources.list">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Akademik_Aplication.My.Resources.Resources.Logo_Polmed">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Akademik_Aplication.My.Resources.Resources.m">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Akademik_Aplication.My.Resources.Resources.pen">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Akademik_Aplication.My.Resources.Resources.plus">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Akademik_Aplication.My.Resources.Resources.refresh">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Akademik_Aplication.My.Resources.Resources.rsz_1m">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Akademik_Aplication.My.Resources.Resources.rsz_m">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Akademik_Aplication.My.Resources.Resources.search">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Akademik_Aplication.My.Resources.Resources.shutdown">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Akademik_Aplication.My.Resources.Resources.test">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Akademik_Aplication.My.Resources.Resources.test2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Akademik_Aplication.My.Resources.Resources.tick">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Akademik_Aplication.My.Resources.Resources.user">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Akademik_Aplication.My.Resources.Resources.Webp_net_resizeimage">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Akademik_Aplication.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:Akademik_Aplication.tugasakhirDataSet1.tblDosenDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Akademik_Aplication.tugasakhirDataSet1.tblDosenRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Akademik_Aplication.tugasakhirDataSet1.tblDosenRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Akademik_Aplication.tugasakhirDataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Akademik_Aplication.tugasakhirDataSet1TableAdapters.tblDosenTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Akademik_Aplication.tugasakhirDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(Akademik_Aplication.tugasakhirDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Akademik_Aplication.tugasakhirDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(Akademik_Aplication.tugasakhirDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Akademik_Aplication.tugasakhirDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(Akademik_Aplication.tugasakhirDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Akademik_Aplication.tugasakhirDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Akademik_Aplication.tugasakhirDataSet1TableAdapters.TableAdapterManager.UpdateAll(Akademik_Aplication.tugasakhirDataSet1)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Akademik_Aplication.tugasakhirDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Akademik_Aplication.tugasakhirDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Akademik_Aplication.tugasakhirDataSet1TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:Akademik_Aplication.DataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+</members>
+</doc>

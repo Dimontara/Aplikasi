@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="tugasakhirDataSet2" targetNamespace="http://tempuri.org/tugasakhirDataSet2.xsd" xmlns:mstns="http://tempuri.org/tugasakhirDataSet2.xsd" xmlns="http://tempuri.org/tugasakhirDataSet2.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="MySettings" AppSettingsPropertyName="tugasakhirConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="tugasakhirConnectionString (MySettings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.Akademik_Aplication.My.MySettings.GlobalReference.Default.tugasakhirConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="vw_nilaitugasAkhirTableAdapter" GeneratorDataComponentClassName="vw_nilaitugasAkhirTableAdapter" Name="vw_nilaitugasAkhir" UserDataComponentName="vw_nilaitugasAkhirTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="tugasakhirConnectionString (MySettings)" DbObjectName="tugasakhir.dbo.vw_nilaitugasAkhir" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT nim, judul, nipDoping, nipDosen1, nipDosen2, nilaiDosen1, nilaiDosen2, nilaiTotal, tanggalsidang, namaMahasiswa, namaDoping, namaDosen1, namaDosen2 FROM dbo.vw_nilaitugasAkhir</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="nim" DataSetColumn="nim" />
+              <Mapping SourceColumn="judul" DataSetColumn="judul" />
+              <Mapping SourceColumn="nipDoping" DataSetColumn="nipDoping" />
+              <Mapping SourceColumn="nipDosen1" DataSetColumn="nipDosen1" />
+              <Mapping SourceColumn="nipDosen2" DataSetColumn="nipDosen2" />
+              <Mapping SourceColumn="nilaiDosen1" DataSetColumn="nilaiDosen1" />
+              <Mapping SourceColumn="nilaiDosen2" DataSetColumn="nilaiDosen2" />
+              <Mapping SourceColumn="nilaiTotal" DataSetColumn="nilaiTotal" />
+              <Mapping SourceColumn="tanggalsidang" DataSetColumn="tanggalsidang" />
+              <Mapping SourceColumn="namaMahasiswa" DataSetColumn="namaMahasiswa" />
+              <Mapping SourceColumn="namaDoping" DataSetColumn="namaDoping" />
+              <Mapping SourceColumn="namaDosen1" DataSetColumn="namaDosen1" />
+              <Mapping SourceColumn="namaDosen2" DataSetColumn="namaDosen2" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="tugasakhirDataSet2" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="tugasakhirDataSet2" msprop:Generator_UserDSName="tugasakhirDataSet2">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="vw_nilaitugasAkhir" msprop:Generator_TableClassName="vw_nilaitugasAkhirDataTable" msprop:Generator_TableVarName="tablevw_nilaitugasAkhir" msprop:Generator_RowChangedName="vw_nilaitugasAkhirRowChanged" msprop:Generator_TablePropName="vw_nilaitugasAkhir" msprop:Generator_RowDeletingName="vw_nilaitugasAkhirRowDeleting" msprop:Generator_RowChangingName="vw_nilaitugasAkhirRowChanging" msprop:Generator_RowEvHandlerName="vw_nilaitugasAkhirRowChangeEventHandler" msprop:Generator_RowDeletedName="vw_nilaitugasAkhirRowDeleted" msprop:Generator_RowClassName="vw_nilaitugasAkhirRow" msprop:Generator_UserTableName="vw_nilaitugasAkhir" msprop:Generator_RowEvArgName="vw_nilaitugasAkhirRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="nim" msprop:Generator_ColumnVarNameInTable="columnnim" msprop:Generator_ColumnPropNameInRow="nim" msprop:Generator_ColumnPropNameInTable="nimColumn" msprop:Generator_UserColumnName="nim">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="judul" msprop:Generator_ColumnVarNameInTable="columnjudul" msprop:Generator_ColumnPropNameInRow="judul" msprop:Generator_ColumnPropNameInTable="judulColumn" msprop:Generator_UserColumnName="judul">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="nipDoping" msprop:Generator_ColumnVarNameInTable="columnnipDoping" msprop:Generator_ColumnPropNameInRow="nipDoping" msprop:Generator_ColumnPropNameInTable="nipDopingColumn" msprop:Generator_UserColumnName="nipDoping">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="nipDosen1" msprop:Generator_ColumnVarNameInTable="columnnipDosen1" msprop:Generator_ColumnPropNameInRow="nipDosen1" msprop:Generator_ColumnPropNameInTable="nipDosen1Column" msprop:Generator_UserColumnName="nipDosen1" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="nipDosen2" msprop:Generator_ColumnVarNameInTable="columnnipDosen2" msprop:Generator_ColumnPropNameInRow="nipDosen2" msprop:Generator_ColumnPropNameInTable="nipDosen2Column" msprop:Generator_UserColumnName="nipDosen2" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="nilaiDosen1" msprop:Generator_ColumnVarNameInTable="columnnilaiDosen1" msprop:Generator_ColumnPropNameInRow="nilaiDosen1" msprop:Generator_ColumnPropNameInTable="nilaiDosen1Column" msprop:Generator_UserColumnName="nilaiDosen1" type="xs:int" minOccurs="0" />
+              <xs:element name="nilaiDosen2" msprop:Generator_ColumnVarNameInTable="columnnilaiDosen2" msprop:Generator_ColumnPropNameInRow="nilaiDosen2" msprop:Generator_ColumnPropNameInTable="nilaiDosen2Column" msprop:Generator_UserColumnName="nilaiDosen2" type="xs:int" minOccurs="0" />
+              <xs:element name="nilaiTotal" msprop:Generator_ColumnVarNameInTable="columnnilaiTotal" msprop:Generator_ColumnPropNameInRow="nilaiTotal" msprop:Generator_ColumnPropNameInTable="nilaiTotalColumn" msprop:Generator_UserColumnName="nilaiTotal" type="xs:int" minOccurs="0" />
+              <xs:element name="tanggalsidang" msprop:Generator_ColumnVarNameInTable="columntanggalsidang" msprop:Generator_ColumnPropNameInRow="tanggalsidang" msprop:Generator_ColumnPropNameInTable="tanggalsidangColumn" msprop:Generator_UserColumnName="tanggalsidang" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="namaMahasiswa" msprop:Generator_ColumnVarNameInTable="columnnamaMahasiswa" msprop:Generator_ColumnPropNameInRow="namaMahasiswa" msprop:Generator_ColumnPropNameInTable="namaMahasiswaColumn" msprop:Generator_UserColumnName="namaMahasiswa" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="namaDoping" msprop:Generator_ColumnVarNameInTable="columnnamaDoping" msprop:Generator_ColumnPropNameInRow="namaDoping" msprop:Generator_ColumnPropNameInTable="namaDopingColumn" msprop:Generator_UserColumnName="namaDoping" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="namaDosen1" msprop:Generator_ColumnVarNameInTable="columnnamaDosen1" msprop:Generator_ColumnPropNameInRow="namaDosen1" msprop:Generator_ColumnPropNameInTable="namaDosen1Column" msprop:Generator_UserColumnName="namaDosen1" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="namaDosen2" msprop:Generator_ColumnVarNameInTable="columnnamaDosen2" msprop:Generator_ColumnPropNameInRow="namaDosen2" msprop:Generator_ColumnPropNameInTable="namaDosen2Column" msprop:Generator_UserColumnName="namaDosen2" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:vw_nilaitugasAkhir" />
+      <xs:field xpath="mstns:nim" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

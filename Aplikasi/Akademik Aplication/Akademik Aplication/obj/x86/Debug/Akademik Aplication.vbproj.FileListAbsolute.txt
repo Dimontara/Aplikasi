@@ -1,0 +1,105 @@
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\tugasakhir2\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\bin\Debug\SFA.exe.config
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\tugasakhir2\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\SFA.exe
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\tugasakhir2\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\SFA.xml
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\tugasakhir2\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\SFA.pdb
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\tugasakhir2\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\bin\Debug\Menu Tampilakn Data\Database1.sdf
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\tugasakhir2\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\bin\Debug\SFA.exe.manifest
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\tugasakhir2\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\bin\Debug\SFA.application
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\tugasakhir2\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\bin\Debug\SFA.exe
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\tugasakhir2\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\bin\Debug\SFA.pdb
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\tugasakhir2\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\bin\Debug\SFA.xml
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\tugasakhir2\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\Akademik Aplication.vbprojResolveAssemblyReference.cache
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\tugasakhir2\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\Akademik_Aplication.FrmReguKerjavb.resources
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\tugasakhir2\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\Akademik_Aplication.FrmNilaiTugasAkhir.resources
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\tugasakhir2\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\Akademik_Aplication.form3.resources
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\tugasakhir2\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\Akademik_Aplication.form2.resources
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\tugasakhir2\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\Akademik_Aplication.FrmTugasAkhir.resources
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\tugasakhir2\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\Akademik_Aplication.FrmMahasiswa.resources
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\tugasakhir2\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\Akademik_Aplication.FrmDosen.resources
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\tugasakhir2\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\Akademik_Aplication.FrmProdi.resources
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\tugasakhir2\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\Akademik_Aplication.FrmContactUs.resources
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\tugasakhir2\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\Akademik_Aplication.FrmMenuUtama.resources
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\tugasakhir2\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\Akademik_Aplication.FrmOperator.resources
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\tugasakhir2\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\Akademik_Aplication.FrmPerusahaan.resources
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\tugasakhir2\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\Akademik_Aplication.FrmLogin.resources
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\tugasakhir2\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\Akademik_Aplication.PrintTugasAkhir.resources
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\tugasakhir2\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\Akademik_Aplication.PrintMahasiswa.resources
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\tugasakhir2\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\Akademik_Aplication.FrmLap.resources
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\tugasakhir2\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\Akademik_Aplication.FrmData.resources
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\tugasakhir2\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\Akademik_Aplication.PrintDosen.resources
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\tugasakhir2\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\Akademik_Aplication.Resources.resources
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\tugasakhir2\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\Akademik Aplication.vbproj.GenerateResource.Cache
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\tugasakhir2\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\RdlCompile.cache
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\tugasakhir2\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\RdlCompile.compiled
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\tugasakhir2\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\SFA.exe.manifest
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\tugasakhir2\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\SFA.application
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\tugasakhir2\Aplikasi\Akademik Aplication\Akademik Aplication\bin\Debug\SFA.exe.config
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\tugasakhir2\Aplikasi\Akademik Aplication\Akademik Aplication\obj\x86\Debug\SFA.exe
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\tugasakhir2\Aplikasi\Akademik Aplication\Akademik Aplication\obj\x86\Debug\SFA.xml
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\tugasakhir2\Aplikasi\Akademik Aplication\Akademik Aplication\obj\x86\Debug\SFA.pdb
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\tugasakhir2\Aplikasi\Akademik Aplication\Akademik Aplication\bin\Debug\Menu Tampilakn Data\Database1.sdf
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\tugasakhir2\Aplikasi\Akademik Aplication\Akademik Aplication\bin\Debug\SFA.exe.manifest
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\tugasakhir2\Aplikasi\Akademik Aplication\Akademik Aplication\bin\Debug\SFA.application
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\tugasakhir2\Aplikasi\Akademik Aplication\Akademik Aplication\bin\Debug\SFA.exe
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\tugasakhir2\Aplikasi\Akademik Aplication\Akademik Aplication\bin\Debug\SFA.pdb
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\tugasakhir2\Aplikasi\Akademik Aplication\Akademik Aplication\bin\Debug\SFA.xml
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\tugasakhir2\Aplikasi\Akademik Aplication\Akademik Aplication\obj\x86\Debug\Akademik Aplication.vbprojResolveAssemblyReference.cache
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\tugasakhir2\Aplikasi\Akademik Aplication\Akademik Aplication\obj\x86\Debug\Akademik_Aplication.FrmReguKerjavb.resources
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\tugasakhir2\Aplikasi\Akademik Aplication\Akademik Aplication\obj\x86\Debug\Akademik_Aplication.FrmNilaiTugasAkhir.resources
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\tugasakhir2\Aplikasi\Akademik Aplication\Akademik Aplication\obj\x86\Debug\Akademik_Aplication.form3.resources
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\tugasakhir2\Aplikasi\Akademik Aplication\Akademik Aplication\obj\x86\Debug\Akademik_Aplication.form2.resources
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\tugasakhir2\Aplikasi\Akademik Aplication\Akademik Aplication\obj\x86\Debug\Akademik_Aplication.FrmTugasAkhir.resources
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\tugasakhir2\Aplikasi\Akademik Aplication\Akademik Aplication\obj\x86\Debug\Akademik_Aplication.FrmMahasiswa.resources
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\tugasakhir2\Aplikasi\Akademik Aplication\Akademik Aplication\obj\x86\Debug\Akademik_Aplication.FrmDosen.resources
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\tugasakhir2\Aplikasi\Akademik Aplication\Akademik Aplication\obj\x86\Debug\Akademik_Aplication.FrmProdi.resources
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\tugasakhir2\Aplikasi\Akademik Aplication\Akademik Aplication\obj\x86\Debug\Akademik_Aplication.FrmContactUs.resources
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\tugasakhir2\Aplikasi\Akademik Aplication\Akademik Aplication\obj\x86\Debug\Akademik_Aplication.FrmMenuUtama.resources
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\tugasakhir2\Aplikasi\Akademik Aplication\Akademik Aplication\obj\x86\Debug\Akademik_Aplication.FrmOperator.resources
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\tugasakhir2\Aplikasi\Akademik Aplication\Akademik Aplication\obj\x86\Debug\Akademik_Aplication.FrmPerusahaan.resources
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\tugasakhir2\Aplikasi\Akademik Aplication\Akademik Aplication\obj\x86\Debug\Akademik_Aplication.FrmLogin.resources
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\tugasakhir2\Aplikasi\Akademik Aplication\Akademik Aplication\obj\x86\Debug\Akademik_Aplication.PrintTugasAkhir.resources
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\tugasakhir2\Aplikasi\Akademik Aplication\Akademik Aplication\obj\x86\Debug\Akademik_Aplication.PrintMahasiswa.resources
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\tugasakhir2\Aplikasi\Akademik Aplication\Akademik Aplication\obj\x86\Debug\Akademik_Aplication.FrmLap.resources
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\tugasakhir2\Aplikasi\Akademik Aplication\Akademik Aplication\obj\x86\Debug\Akademik_Aplication.FrmData.resources
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\tugasakhir2\Aplikasi\Akademik Aplication\Akademik Aplication\obj\x86\Debug\Akademik_Aplication.PrintDosen.resources
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\tugasakhir2\Aplikasi\Akademik Aplication\Akademik Aplication\obj\x86\Debug\Akademik_Aplication.Resources.resources
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\tugasakhir2\Aplikasi\Akademik Aplication\Akademik Aplication\obj\x86\Debug\Akademik Aplication.vbproj.GenerateResource.Cache
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\tugasakhir2\Aplikasi\Akademik Aplication\Akademik Aplication\obj\x86\Debug\RdlCompile.cache
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\tugasakhir2\Aplikasi\Akademik Aplication\Akademik Aplication\obj\x86\Debug\RdlCompile.compiled
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\tugasakhir2\Aplikasi\Akademik Aplication\Akademik Aplication\obj\x86\Debug\SFA.exe.manifest
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\tugasakhir2\Aplikasi\Akademik Aplication\Akademik Aplication\obj\x86\Debug\SFA.application
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\Akademik Aplication\Aplikasi\Akademik Aplication\Akademik Aplication\bin\Debug\SFA.exe.config
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\Akademik Aplication\Aplikasi\Akademik Aplication\Akademik Aplication\obj\x86\Debug\SFA.exe
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\Akademik Aplication\Aplikasi\Akademik Aplication\Akademik Aplication\obj\x86\Debug\SFA.xml
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\Akademik Aplication\Aplikasi\Akademik Aplication\Akademik Aplication\obj\x86\Debug\SFA.pdb
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\Akademik Aplication\Aplikasi\Akademik Aplication\Akademik Aplication\bin\Debug\Menu Tampilakn Data\Database1.sdf
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\Akademik Aplication\Aplikasi\Akademik Aplication\Akademik Aplication\bin\Debug\SFA.exe.manifest
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\Akademik Aplication\Aplikasi\Akademik Aplication\Akademik Aplication\bin\Debug\SFA.application
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\Akademik Aplication\Aplikasi\Akademik Aplication\Akademik Aplication\bin\Debug\SFA.exe
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\Akademik Aplication\Aplikasi\Akademik Aplication\Akademik Aplication\bin\Debug\SFA.pdb
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\Akademik Aplication\Aplikasi\Akademik Aplication\Akademik Aplication\bin\Debug\SFA.xml
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\Akademik Aplication\Aplikasi\Akademik Aplication\Akademik Aplication\obj\x86\Debug\Akademik Aplication.vbprojResolveAssemblyReference.cache
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\Akademik Aplication\Aplikasi\Akademik Aplication\Akademik Aplication\obj\x86\Debug\Akademik_Aplication.FrmReguKerjavb.resources
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\Akademik Aplication\Aplikasi\Akademik Aplication\Akademik Aplication\obj\x86\Debug\Akademik_Aplication.FrmNilaiTugasAkhir.resources
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\Akademik Aplication\Aplikasi\Akademik Aplication\Akademik Aplication\obj\x86\Debug\Akademik_Aplication.form3.resources
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\Akademik Aplication\Aplikasi\Akademik Aplication\Akademik Aplication\obj\x86\Debug\Akademik_Aplication.form2.resources
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\Akademik Aplication\Aplikasi\Akademik Aplication\Akademik Aplication\obj\x86\Debug\Akademik_Aplication.FrmTugasAkhir.resources
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\Akademik Aplication\Aplikasi\Akademik Aplication\Akademik Aplication\obj\x86\Debug\Akademik_Aplication.FrmMahasiswa.resources
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\Akademik Aplication\Aplikasi\Akademik Aplication\Akademik Aplication\obj\x86\Debug\Akademik_Aplication.FrmDosen.resources
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\Akademik Aplication\Aplikasi\Akademik Aplication\Akademik Aplication\obj\x86\Debug\Akademik_Aplication.FrmProdi.resources
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\Akademik Aplication\Aplikasi\Akademik Aplication\Akademik Aplication\obj\x86\Debug\Akademik_Aplication.FrmContactUs.resources
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\Akademik Aplication\Aplikasi\Akademik Aplication\Akademik Aplication\obj\x86\Debug\Akademik_Aplication.FrmMenuUtama.resources
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\Akademik Aplication\Aplikasi\Akademik Aplication\Akademik Aplication\obj\x86\Debug\Akademik_Aplication.FrmOperator.resources
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\Akademik Aplication\Aplikasi\Akademik Aplication\Akademik Aplication\obj\x86\Debug\Akademik_Aplication.FrmPerusahaan.resources
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\Akademik Aplication\Aplikasi\Akademik Aplication\Akademik Aplication\obj\x86\Debug\Akademik_Aplication.FrmLogin.resources
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\Akademik Aplication\Aplikasi\Akademik Aplication\Akademik Aplication\obj\x86\Debug\Akademik_Aplication.PrintTugasAkhir.resources
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\Akademik Aplication\Aplikasi\Akademik Aplication\Akademik Aplication\obj\x86\Debug\Akademik_Aplication.PrintMahasiswa.resources
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\Akademik Aplication\Aplikasi\Akademik Aplication\Akademik Aplication\obj\x86\Debug\Akademik_Aplication.FrmLap.resources
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\Akademik Aplication\Aplikasi\Akademik Aplication\Akademik Aplication\obj\x86\Debug\Akademik_Aplication.FrmData.resources
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\Akademik Aplication\Aplikasi\Akademik Aplication\Akademik Aplication\obj\x86\Debug\Akademik_Aplication.PrintDosen.resources
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\Akademik Aplication\Aplikasi\Akademik Aplication\Akademik Aplication\obj\x86\Debug\Akademik_Aplication.Resources.resources
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\Akademik Aplication\Aplikasi\Akademik Aplication\Akademik Aplication\obj\x86\Debug\Akademik Aplication.vbproj.GenerateResource.Cache
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\Akademik Aplication\Aplikasi\Akademik Aplication\Akademik Aplication\obj\x86\Debug\RdlCompile.cache
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\Akademik Aplication\Aplikasi\Akademik Aplication\Akademik Aplication\obj\x86\Debug\RdlCompile.compiled
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\Akademik Aplication\Aplikasi\Akademik Aplication\Akademik Aplication\obj\x86\Debug\SFA.exe.manifest
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\Akademik Aplication\Aplikasi\Akademik Aplication\Akademik Aplication\obj\x86\Debug\SFA.application

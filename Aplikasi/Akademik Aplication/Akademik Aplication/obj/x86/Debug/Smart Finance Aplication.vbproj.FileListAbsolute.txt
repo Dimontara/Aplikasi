@@ -1,0 +1,135 @@
+D:\Project SOFTMED CONSULTINDO\Smart Finance Aplication\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\bin\Debug\SFA.exe
+D:\Project SOFTMED CONSULTINDO\Smart Finance Aplication\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\bin\Debug\SFA.pdb
+D:\Project SOFTMED CONSULTINDO\Smart Finance Aplication\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\bin\Debug\SFA.xml
+D:\Project SOFTMED CONSULTINDO\Smart Finance Aplication\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\Smart_Finance_Aplication.FrmMenuUtama.resources
+D:\Project SOFTMED CONSULTINDO\Smart Finance Aplication\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\Smart_Finance_Aplication.Resources.resources
+D:\Project SOFTMED CONSULTINDO\Smart Finance Aplication\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\Smart Finance Aplication.vbproj.GenerateResource.Cache
+D:\Project SOFTMED CONSULTINDO\Smart Finance Aplication\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\SFA.exe
+D:\Project SOFTMED CONSULTINDO\Smart Finance Aplication\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\SFA.xml
+D:\Project SOFTMED CONSULTINDO\Smart Finance Aplication\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\SFA.pdb
+D:\Project SOFTMED CONSULTINDO\Smart Finance Aplication\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\bin\Debug\Service Application.xml
+D:\Project SOFTMED CONSULTINDO\Smart Finance Aplication\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\Smart_Finance_Aplication.FrmPerusahaan.resources
+D:\Project SOFTMED CONSULTINDO\Smart Finance Aplication\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\Smart_Finance_Aplication.FrmContactUs.resources
+D:\Project SOFTMED CONSULTINDO\Smart Finance Aplication\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\Smart_Finance_Aplication.FrmLogin.resources
+D:\Project SOFTMED CONSULTINDO\Smart Finance Aplication\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\Smart_Finance_Aplication.FrmOperator.resources
+D:\Project SOFTMED CONSULTINDO\Smart Finance Aplication\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\Smart_Finance_Aplication.FrmData.resources
+D:\Project SOFTMED CONSULTINDO\Smart Finance Aplication\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\Smart_Finance_Aplication.FrmReguKerjavb.resources
+D:\Project\Project SOFTMED CONSULTINDO\Smart Finance Aplication\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\SFA.exe
+D:\Project\Project SOFTMED CONSULTINDO\Smart Finance Aplication\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\SFA.xml
+D:\Project\Project SOFTMED CONSULTINDO\Smart Finance Aplication\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\SFA.pdb
+D:\Project\Project SOFTMED CONSULTINDO\Smart Finance Aplication\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\bin\Debug\SFA.exe
+D:\Project\Project SOFTMED CONSULTINDO\Smart Finance Aplication\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\bin\Debug\SFA.pdb
+D:\Project\Project SOFTMED CONSULTINDO\Smart Finance Aplication\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\bin\Debug\SFA.xml
+D:\Project\Project SOFTMED CONSULTINDO\Smart Finance Aplication\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\bin\Debug\Service Application.pdb
+D:\Project\Project SOFTMED CONSULTINDO\Smart Finance Aplication\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\bin\Debug\Service Application.xml
+D:\Project\Project SOFTMED CONSULTINDO\Smart Finance Aplication\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\Smart Finance Aplication.vbprojResolveAssemblyReference.cache
+D:\Project\Project SOFTMED CONSULTINDO\Smart Finance Aplication\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\Smart_Finance_Aplication.FrmReguKerjavb.resources
+D:\Project\Project SOFTMED CONSULTINDO\Smart Finance Aplication\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\Smart_Finance_Aplication.FrmContactUs.resources
+D:\Project\Project SOFTMED CONSULTINDO\Smart Finance Aplication\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\Smart_Finance_Aplication.FrmMenuUtama.resources
+D:\Project\Project SOFTMED CONSULTINDO\Smart Finance Aplication\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\Smart_Finance_Aplication.FrmOperator.resources
+D:\Project\Project SOFTMED CONSULTINDO\Smart Finance Aplication\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\Smart_Finance_Aplication.FrmPerusahaan.resources
+D:\Project\Project SOFTMED CONSULTINDO\Smart Finance Aplication\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\Smart_Finance_Aplication.FrmLogin.resources
+D:\Project\Project SOFTMED CONSULTINDO\Smart Finance Aplication\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\Smart_Finance_Aplication.FrmData.resources
+D:\Project\Project SOFTMED CONSULTINDO\Smart Finance Aplication\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\Smart_Finance_Aplication.Resources.resources
+D:\Project\Project SOFTMED CONSULTINDO\Smart Finance Aplication\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\Smart Finance Aplication.vbproj.GenerateResource.Cache
+D:\Smart Finance Aplication2\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\SFA.exe
+D:\Smart Finance Aplication2\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\SFA.xml
+D:\Smart Finance Aplication2\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\SFA.pdb
+D:\Smart Finance Aplication2\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\bin\Debug\SFA.exe
+D:\Smart Finance Aplication2\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\bin\Debug\SFA.pdb
+D:\Smart Finance Aplication2\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\bin\Debug\SFA.xml
+D:\Smart Finance Aplication2\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\Smart Finance Aplication.vbprojResolveAssemblyReference.cache
+D:\Smart Finance Aplication2\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\Smart_Finance_Aplication.FrmReguKerjavb.resources
+D:\Smart Finance Aplication2\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\Smart_Finance_Aplication.FrmContactUs.resources
+D:\Smart Finance Aplication2\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\Smart_Finance_Aplication.FrmMenuUtama.resources
+D:\Smart Finance Aplication2\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\Smart_Finance_Aplication.FrmOperator.resources
+D:\Smart Finance Aplication2\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\Smart_Finance_Aplication.FrmPerusahaan.resources
+D:\Smart Finance Aplication2\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\Smart_Finance_Aplication.FrmLogin.resources
+D:\Smart Finance Aplication2\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\Smart_Finance_Aplication.FrmData.resources
+D:\Smart Finance Aplication2\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\Smart_Finance_Aplication.Resources.resources
+D:\Smart Finance Aplication2\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\Smart Finance Aplication.vbproj.GenerateResource.Cache
+D:\Smart Finance Aplication2\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\Smart_Finance_Aplication.FrmProdi.resources
+D:\Smart Finance Aplication2\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\Smart_Finance_Aplication.FrmDosen.resources
+D:\Smart Finance Aplication2\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\Smart_Finance_Aplication.FrmMahasiswa.resources
+D:\Smart Finance Aplication2\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\Smart_Finance_Aplication.FrmTugasAkhir.resources
+D:\Smart Finance Aplication2\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\Smart_Finance_Aplication.FrmNilaiTugasAkhir.resources
+D:\Smart Finance Aplication2\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\Smart_Finance_Aplication.form2.resources
+D:\Smart Finance Aplication2\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\Smart_Finance_Aplication.form3.resources
+D:\Smart Finance Aplication2\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\bin\Debug\SFA.exe.config
+D:\Smart Finance Aplication2\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\Smart_Finance_Aplication.FrmLap.resources
+D:\Smart Finance Aplication2\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\RdlCompile.cache
+D:\Smart Finance Aplication2\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\RdlCompile.compiled
+D:\Smart Finance Aplication2\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\Smart_Finance_Aplication.PrintTugasAkhir.resources
+D:\Smart Finance Aplication2\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\Smart_Finance_Aplication.PrintMahasiswa.resources
+D:\Smart Finance Aplication2\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\Smart_Finance_Aplication.PrintDosen.resources
+D:\Smart Finance Aplication2\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\bin\Debug\Menu Tampilakn Data\Database1.sdf
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\tugasakhir2\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\bin\Debug\SFA.exe.config
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\tugasakhir2\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\SFA.exe
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\tugasakhir2\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\SFA.xml
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\tugasakhir2\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\SFA.pdb
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\tugasakhir2\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\bin\Debug\Menu Tampilakn Data\Database1.sdf
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\tugasakhir2\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\bin\Debug\SFA.exe
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\tugasakhir2\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\bin\Debug\SFA.pdb
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\tugasakhir2\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\bin\Debug\SFA.xml
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\tugasakhir2\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\Smart Finance Aplication.vbprojResolveAssemblyReference.cache
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\tugasakhir2\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\Smart_Finance_Aplication.FrmReguKerjavb.resources
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\tugasakhir2\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\Smart_Finance_Aplication.FrmNilaiTugasAkhir.resources
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\tugasakhir2\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\Smart_Finance_Aplication.form3.resources
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\tugasakhir2\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\Smart_Finance_Aplication.form2.resources
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\tugasakhir2\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\Smart_Finance_Aplication.FrmTugasAkhir.resources
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\tugasakhir2\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\Smart_Finance_Aplication.FrmMahasiswa.resources
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\tugasakhir2\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\Smart_Finance_Aplication.FrmDosen.resources
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\tugasakhir2\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\Smart_Finance_Aplication.FrmProdi.resources
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\tugasakhir2\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\Smart_Finance_Aplication.FrmContactUs.resources
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\tugasakhir2\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\Smart_Finance_Aplication.FrmMenuUtama.resources
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\tugasakhir2\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\Smart_Finance_Aplication.FrmOperator.resources
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\tugasakhir2\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\Smart_Finance_Aplication.FrmPerusahaan.resources
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\tugasakhir2\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\Smart_Finance_Aplication.FrmLogin.resources
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\tugasakhir2\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\Smart_Finance_Aplication.PrintTugasAkhir.resources
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\tugasakhir2\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\Smart_Finance_Aplication.PrintMahasiswa.resources
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\tugasakhir2\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\Smart_Finance_Aplication.FrmLap.resources
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\tugasakhir2\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\Smart_Finance_Aplication.FrmData.resources
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\tugasakhir2\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\Smart_Finance_Aplication.PrintDosen.resources
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\tugasakhir2\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\Smart_Finance_Aplication.Resources.resources
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\tugasakhir2\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\Smart Finance Aplication.vbproj.GenerateResource.Cache
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\tugasakhir2\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\RdlCompile.cache
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\tugasakhir2\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\RdlCompile.compiled
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\tugasakhir2\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\bin\Debug\SFA.exe.manifest
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\tugasakhir2\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\bin\Debug\SFA.application
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\tugasakhir2\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\SFA.exe.manifest
+D:\MATA KULIAH\MATKUL SEMESTER 5\PEMROGRAMAN JARINGAN (JNS)\tugasakhir2\Aplikasi\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\SFA.application
+D:\Smart Finance Aplication\Smart Finance Aplication\bin\Debug\SFA.exe.config
+D:\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\SFA.exe
+D:\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\SFA.xml
+D:\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\SFA.pdb
+D:\Smart Finance Aplication\Smart Finance Aplication\bin\Debug\Menu Tampilakn Data\Database1.sdf
+D:\Smart Finance Aplication\Smart Finance Aplication\bin\Debug\SFA.exe.manifest
+D:\Smart Finance Aplication\Smart Finance Aplication\bin\Debug\SFA.application
+D:\Smart Finance Aplication\Smart Finance Aplication\bin\Debug\SFA.exe
+D:\Smart Finance Aplication\Smart Finance Aplication\bin\Debug\SFA.pdb
+D:\Smart Finance Aplication\Smart Finance Aplication\bin\Debug\SFA.xml
+D:\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\Smart Finance Aplication.vbprojResolveAssemblyReference.cache
+D:\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\Smart_Finance_Aplication.FrmReguKerjavb.resources
+D:\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\Smart_Finance_Aplication.FrmNilaiTugasAkhir.resources
+D:\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\Smart_Finance_Aplication.form3.resources
+D:\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\Smart_Finance_Aplication.form2.resources
+D:\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\Smart_Finance_Aplication.FrmTugasAkhir.resources
+D:\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\Smart_Finance_Aplication.FrmMahasiswa.resources
+D:\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\Smart_Finance_Aplication.FrmDosen.resources
+D:\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\Smart_Finance_Aplication.FrmProdi.resources
+D:\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\Smart_Finance_Aplication.FrmContactUs.resources
+D:\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\Smart_Finance_Aplication.FrmMenuUtama.resources
+D:\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\Smart_Finance_Aplication.FrmOperator.resources
+D:\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\Smart_Finance_Aplication.FrmPerusahaan.resources
+D:\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\Smart_Finance_Aplication.FrmLogin.resources
+D:\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\Smart_Finance_Aplication.PrintTugasAkhir.resources
+D:\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\Smart_Finance_Aplication.PrintMahasiswa.resources
+D:\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\Smart_Finance_Aplication.FrmLap.resources
+D:\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\Smart_Finance_Aplication.FrmData.resources
+D:\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\Smart_Finance_Aplication.PrintDosen.resources
+D:\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\Smart_Finance_Aplication.Resources.resources
+D:\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\Smart Finance Aplication.vbproj.GenerateResource.Cache
+D:\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\RdlCompile.cache
+D:\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\RdlCompile.compiled
+D:\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\SFA.exe.manifest
+D:\Smart Finance Aplication\Smart Finance Aplication\obj\x86\Debug\SFA.application
